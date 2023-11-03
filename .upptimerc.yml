@@ -4,7 +4,7 @@ repo: trypromptly-upptime # The name of this repository
 
 sites:
   - name: Promptly
-    url: https://trypromptly.com/
+    url: https://www.trypromptly.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -19,7 +19,6 @@ status-website:
     - title: Status
       href: /
     - title: Promptly
-      href: https://trypromptly.com/
-
+      href: https://www.trypromptly.com/
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
